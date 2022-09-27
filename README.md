@@ -1,4 +1,4 @@
-# xdmrspam
+# to use
 
 & pkg install python
 
