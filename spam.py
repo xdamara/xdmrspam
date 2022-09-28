@@ -8,9 +8,8 @@ def main():
 	os.system('clear')
 	os.system('figlet NF404')
 	banner='''
-
-	[+]XDAMARA
-	[+]NOT FOUND 404 TEAM
+	[•]XDAMARA
+	[•]NOT FOUND 404 TEAM
 	'''
 	print(banner)
 	no = input(' target : ')
